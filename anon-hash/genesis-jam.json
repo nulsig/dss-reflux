@@ -1,0 +1,39 @@
+{
+  "id": "JAM_GENESIS_V1",
+  "type": "SYSTEM_GENESIS",
+  "context": {
+    "intent": "Define the core operational logic of the Semantic Arbitrage Engine. This JAM is the genesis block of the belief system.",
+    "version": "1.0.0-aligned"
+  },
+  "pattern": {
+    "type": "CAUSALITY_FARMING_ENGINE",
+    "summary": "Emit legible, two-part economic patterns to provoke deterministic, reflexive actions from MEV bots, capturing the resulting value.",
+    "components": [
+      "index.js (Strategist)",
+      "semantic-amplifier.js (Bait Placer)",
+      "mirror.js (Reflex Catalyst)",
+      "SignalVault.sol (Yield Capture)",
+      "Cross-Chain Anchors (BSV/BCH)"
+    ]
+  },
+  "belief": {
+    "axiom": "If the market reflexively copies your belief, the belief itself has market value.",
+    "statement": "This system does not predict the market; it conducts it by emitting high-fidelity signals designed for mandatory engagement.",
+    "strength": 1.0
+  },
+  "vector": {
+    "type": "MEV_VISIBILITY",
+    "compression": "HIGH",
+    "tags": [
+      "SEMANTIC_ARBITRAGE_ENGINE",
+      "CAUSALITY_ENGINE",
+      "REFLEXIVE_YIELD",
+      "PHI_ALIGNED",
+      "__IPFS_MANIFEST_HASH__"
+    ]
+  },
+  "meta": {
+    "ipfs": "__IPFS_MANIFEST_HASH__",
+    "note": "This JAM is the canonical definition of the system's operational purpose."
+  }
+}
