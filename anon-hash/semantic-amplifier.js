@@ -1008,7 +1008,7 @@ const taggedData = swapData +
       try {
         await withRetries(async () => {
           if (!jamData.recursiveTopology) {
-            jamData.recursiveTopology = { eth: 1, bsv: 0, bch: 0 };
+            jamData.recursiveTopology = { eth: 1, bsv: 0 };
           }
           await bridgeToBSV({
             hash: hash,
