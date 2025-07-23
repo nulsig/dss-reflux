@@ -65,7 +65,7 @@
     "bsv": 0,
     "vectorClock": {
       "eth": 1,
-      "bsv": 0,
+      "bsv": 0
     }
   },
   "cascadeDepth": 1,
